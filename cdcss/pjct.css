@@ -129,7 +129,7 @@ main h1 {
   overflow: hidden;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   main {
     width: 500px;
   }
@@ -163,7 +163,7 @@ main h1 {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
   main {
     width: 300px;
   }
